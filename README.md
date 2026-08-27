@@ -107,6 +107,10 @@ timezone UI on top of the same data/search logic `TimezoneSelect` uses internall
 
 ## Development
 
+Requires Node.js 22+ (the test suite's jsdom/undici dependency needs Node internals not present in Node 20).
+This only affects local development and CI — it has no bearing on what Node/browser versions can *consume*
+the published package.
+
 ```bash
 npm install
 npm test              # run the test suite
