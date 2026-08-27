@@ -1,6 +1,6 @@
 {
   "name": "epoch-time-controls",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A sleek, searchable date/time + timezone picker control for Mantine apps, extracted from Epoch (https://github.com/sunitshah7/countdown).",
   "type": "module",
   "main": "./dist/index.cjs",

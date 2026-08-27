@@ -1,6 +1,6 @@
 # epoch-time-controls
 
-[![Tests](https://github.com/sunitshah7/Epoch-TimeControls/actions/workflows/test.yml/badge.svg)](https://github.com/sunitshah7/Epoch-TimeControls/actions/workflows/test.yml)
+[![Tests](https://img.shields.io/github/actions/workflow/status/sunitshah7/Epoch-TimeControls/test.yml?branch=main&label=tests)](https://github.com/sunitshah7/Epoch-TimeControls/actions/workflows/test.yml)
 <!-- COVERAGE-BADGES:START -->
 ![statements coverage](https://img.shields.io/badge/statements-100%25-brightgreen) ![branches coverage](https://img.shields.io/badge/branches-100%25-brightgreen) ![functions coverage](https://img.shields.io/badge/functions-100%25-brightgreen) ![lines coverage](https://img.shields.io/badge/lines-100%25-brightgreen)
 <!-- COVERAGE-BADGES:END -->
